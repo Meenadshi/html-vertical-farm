@@ -1,1 +1,16 @@
-/* Styling */
+
+body{
+    background: black;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+  }
+  .navbar a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;   
+  }
