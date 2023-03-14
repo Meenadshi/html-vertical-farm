@@ -2,15 +2,28 @@
 body{
     background: black;
 }
-.navbar {
-    position: fixed;
-    width: 100%;
-    background-color: black;
-    height: 50px;
+.navbar-container {
+     display: flex;
+     justify-content: space-between;
+  }
+.navbar-items{
+  display: flex;
+}
+.logo-items{
+  display: flex;
+}
+.logo-name{
+    color:white;
   }
   .navbar a{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     text-decoration: none;
-    padding: 14px 16px;   
+    padding: 20px 14px 16px 20px; 
+  }
+  .navbar-btn{
+    
+  }
+  .slogan{
+    color: white;
   }
