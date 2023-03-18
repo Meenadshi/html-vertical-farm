@@ -24,6 +24,13 @@ body{
   .navbar-btn{
     
   }
-  .slogan{
+  p{
     color: white;
+  }
+  .slogan{
+    font-size: 300%;
+    padding-left: 100px;
+  }
+  .description{
+    padding-left: 100px;
   }
