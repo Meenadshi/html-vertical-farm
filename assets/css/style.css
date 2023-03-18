@@ -31,6 +31,13 @@ body{
     font-size: 300%;
     padding-left: 100px;
   }
+  .highlight{
+    color:black;
+    background: #ffff99;
+  }
   .description{
     padding-left: 100px;
+  }
+  .next-btn{
+    padding-left: 60px;
   }
